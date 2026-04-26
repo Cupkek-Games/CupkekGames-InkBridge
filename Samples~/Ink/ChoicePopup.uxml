@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="ChoicePopup.uss?fileID=7433441132597879392&amp;guid=340ec60239c75da4c94e142ea8c4c714&amp;type=3#ChoicePopup" />
+    <ui:VisualElement name="ChoicePopup" class="modal_container" style="display: flex;">
+        <ui:VisualElement name="ButtonContainer" class="modal_bottom" />
+    </ui:VisualElement>
+</ui:UXML>

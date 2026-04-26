@@ -1,0 +1,6 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:VisualElement class="size-full bg-coral-900" style="align-items: center; justify-content: center;">
+        <engine:Label text="Visit documentation for detailed guide." style="font-size: 48px;" />
+        <engine:Button name="Play" text="Play" class="btn" />
+    </engine:VisualElement>
+</engine:UXML>

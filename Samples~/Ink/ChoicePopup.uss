@@ -1,0 +1,20 @@
+.modal_container {
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.96);
+}
+
+.modal_bottom {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.modal_bottom > * {
+  margin: 16px;
+}
