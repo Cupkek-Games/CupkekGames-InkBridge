@@ -12,6 +12,6 @@ Requires the **ink-unity-integration** package from inkle (https://github.com/in
 
 ## Dependencies
 
-- `com.cupkekgames.keyvaluedatabase` (story character database)
+- `com.cupkekgames.keyvaluedatabases` (story character database)
 - `com.cupkekgames.luna` (UI components for speech bubbles, choices)
 - `com.inkle.ink-unity-integration` (third-party; install per inkle instructions)

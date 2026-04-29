@@ -21,7 +21,7 @@ com.cupkekgames.inkbridge/
 
 ## Dependencies
 
-- `com.cupkekgames.keyvaluedatabase` (story character database)
+- `com.cupkekgames.keyvaluedatabases` (story character database)
 - `com.cupkekgames.luna`
 - **External: `com.inkle.ink-unity-integration`** (third-party; user installs separately per inkle instructions)
 
