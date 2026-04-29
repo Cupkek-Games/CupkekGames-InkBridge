@@ -1,5 +1,4 @@
 using System;
-using CupkekGames.Core;
 using UnityEngine;
 
 namespace CupkekGames.Luna.Ink.Demo

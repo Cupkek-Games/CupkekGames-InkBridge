@@ -1,7 +1,7 @@
 {
-  "name": "com.cupkekgames.ink",
-  "displayName": "CupkekGames Ink",
-  "version": "0.1.0",
+  "name": "com.cupkekgames.inkbridge",
+  "displayName": "CupkekGames Ink Bridge",
+  "version": "0.1.1",
   "author": {
     "name": "CupkekGames",
     "url": "https://www.docs.cupkek.games"
@@ -17,7 +17,7 @@
     "CupkekGames"
   ],
   "dependencies": {
-    "com.cupkekgames.core": "0.1.0",
+    "com.cupkekgames.keyvaluedatabase": "0.1.0",
     "com.cupkekgames.luna": "1.4.0"
   },
   "samples": [

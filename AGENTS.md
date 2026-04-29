@@ -2,7 +2,7 @@
 
 ## Package Overview
 
-**CupkekGames Ink** (`com.cupkekgames.ink`) integrates the Ink narrative engine with Luna UI.
+**CupkekGames Ink** (`com.cupkekgames.inkbridge`) integrates the Ink narrative engine with Luna UI.
 
 ## Critical: Do not hand-edit Unity serialized assets or `.meta` files
 
@@ -11,7 +11,7 @@ Apply scene/prefab/SO changes in Unity Editor; preserve `.meta` GUIDs.
 ## Package Structure
 
 ```
-com.cupkekgames.ink/
+com.cupkekgames.inkbridge/
   package.json
   README.md
   AGENTS.md
@@ -21,12 +21,12 @@ com.cupkekgames.ink/
 
 ## Dependencies
 
-- `com.cupkekgames.core`
+- `com.cupkekgames.keyvaluedatabase` (story character database)
 - `com.cupkekgames.luna`
 - **External: `com.inkle.ink-unity-integration`** (third-party; user installs separately per inkle instructions)
 
 ## Coding Conventions
 
-- **Namespace**: `CupkekGames.Luna.Ink` (kept for back-compat; package name is `com.cupkekgames.ink` but namespace stays `Luna.Ink`)
+- **Namespace**: `CupkekGames.Luna.Ink` (kept for back-compat; package name is `com.cupkekgames.inkbridge` but namespace stays `Luna.Ink`)
 - **Asmdefs**: GUID references; uses `versionDefines` for ink-unity-integration if needed
 - **Strict typing**
