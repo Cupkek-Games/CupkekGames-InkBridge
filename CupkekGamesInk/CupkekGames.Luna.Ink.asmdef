@@ -11,7 +11,15 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": [],
+    "defineConstraints": [
+        "INK_INSTALLED"
+    ],
+    "versionDefines": [
+        {
+            "name": "Ink-Libraries",
+            "expression": "",
+            "define": "INK_INSTALLED"
+        }
+    ],
     "noEngineReferences": false
 }
