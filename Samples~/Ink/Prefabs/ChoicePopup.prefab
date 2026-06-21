@@ -67,7 +67,7 @@ MonoBehaviour:
   _parentName: ChoicePopup
   _focusName: 
   _fadeDuration: 0.5
-  _startVisibility: 2
+  _startVisibility: 1
   _easingMode: 12
   _addDefaultEscapeAction: 0
   _disableOtherViewsOnFadeIn: 1
